@@ -1,0 +1,16 @@
+2022-04-25T20:56:44+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-admin\includes\class-wp-screen.php on line 1355
+
+2022-04-25T20:56:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-04-25T20:56:45+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-04-25T20:56:46+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\Requests\Transport\cURL.php on line 484
+
+2022-04-25T20:56:47+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\Requests\Transport\cURL.php on line 484
+
+2022-04-25T20:56:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-admin\includes\widgets.php on line 328
+
+2022-04-25T20:56:48+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\Requests\Transport\cURL.php on line 462
+
+2022-04-25T20:56:49+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\wordpress1\wp-includes\Requests\Transport\cURL.php on line 462
+
